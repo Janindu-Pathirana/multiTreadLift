@@ -6,7 +6,6 @@ public class Main {
 
 	static ArrayList<Lift> lifts = new ArrayList<Lift>();
 
-
     public static void main(String[] args) {
 
 		for (int i = 0; i< 2; i++){
